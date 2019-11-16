@@ -89,7 +89,7 @@ Issues here will be addressed at the earliest convenience of the maintainer. Mer
 ## Contributing
 
 We'd really like if you can take some time to make sure your coding style is
-consistent with the project. Pomf-JS [Airbnb JavaScript
+consistent with the project. Pomf-JS uses [Airbnb JavaScript
 (ES5)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5) (`airbnb/legacy`)
 coding style guides. We use ESLint to enforce these standards.
 
