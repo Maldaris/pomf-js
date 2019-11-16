@@ -1,14 +1,15 @@
 {
-  "name": "pomf",
+  "name": "pomf-js",
   "version": "2.1.0",
-  "description": "Kawaii file host",
-  "homepage": "https://pantsu.cat/",
+  "description": "'Not-shit' file host",
+  "homepage": "https://i.okboomer.moe/",
   "repository": {
     "type": "git",
     "url": "https://github.com/pomf/pomf"
   },
-  "author": "Eliot Whalan <ewhal@pantsu.cat>",
+  "author": "Shayne Fitzgerald <shaynefitzgerald0@gmail.com>",
   "contributors": [
+    "Eliot Whalan <ewhal@pantsu.cat>",
     "Eric Johansson <neku@pomf.se>",
     "Peter Lejeck <peter.lejeck@gmail.com>",
     "cenci0 <alchimist94@gmail.com>",
@@ -17,14 +18,20 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pomf/pomf/issues"
+    "url": "https://github.com/Maldaris/pomf-js/issues"
   },
   "devDependencies": {
     "clean-css": "^4.2.1",
-    "uglify-js": "^2.6.2",
-    "swig": "^1.4.2"
+    "swig": "^1.4.2",
+    "htmlmin": "0.0.6",
+    "uglify-js": "^2.6.2"
   },
   "dependencies": {
-    "htmlmin": "0.0.6"
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6-alpha.6",
+    "helmet": "^3.21.2",
+    "moment": "^2.24.0",
+    "shortid": "^2.2.15",
+    "sqlite": "^3.0.3"
   }
 }

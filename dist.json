@@ -18,9 +18,9 @@
 	"max_upload_size": 128,
 	"production": false,
 	"siteName": "Pomf",
-	"siteUrl": "http://example.com",
-	"abuseContact": "abuse@example.com",
-	"infoContact": "info@example.com",
+	"siteUrl": "http://i.okboomer.moe",
+	"abuseContact": "abuse@okboomer.moe",
+	"infoContact": "info@okboomer.moe",
 	"paypalUrl": "",
 	"bitcoinAddress": "",
 	"flattrUrl": ""
